@@ -205,9 +205,7 @@ DevTools is enabled for automatic restart on code changes. Just save your files 
 java -jar target/ecommerce-0.0.1-SNAPSHOT.jar
 ```
 
-## 👥 Contributors
 
-Your Name - Student Project
 
 ## 📄 License
 
